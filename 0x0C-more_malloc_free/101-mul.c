@@ -177,5 +177,4 @@ void print_result(char *src, int length)
 	{
 		if (src[i] >= '0' && src[i] <= '9')
 		printf("%c", src[i]);
-	}
-}
+	}}
